@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, eu sou o Lucas Marques Leme 👋
 
-<!--
-**LucasMarquesLeme/LucasMarquesLeme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
+Sou estudante de Ciência e Tecnologia e Ciência da Computação na UFABC, com interesse em Análise de Dados, Power BI, e tecnologias emergentes. Busco sempre aprender novas ferramentas e expandir meu conhecimento, além de ter experiência prática com Excel, SQL e Power Query. Tenho como objetivo me tornar um analista de dados e contribuir com soluções baseadas em dados.
 
-Here are some ideas to get you started:
+## Tecnologias e Ferramentas
+- **Power BI**
+- **Power Query**
+- **Excel**
+- **SQL**
+- **Python**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos
+No meu GitHub, você pode encontrar projetos focados em análise de dados, como:
+- **Análise de Crédito e Risco**
+- **Transformação e Visualização de Dados**
+
+## Contato
+- [LinkedIn](https://www.linkedin.com/in/lucas-marques-leme)
+- Email: lucasml2990@gmail.com
