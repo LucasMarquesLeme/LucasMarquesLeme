@@ -5,7 +5,6 @@ Sou estudante de Ciência e Tecnologia e Ciência da Computação na UFABC, com 
 
 ## Tecnologias e Ferramentas
 - **Power BI**
-- **Power Query**
 - **Excel**
 - **SQL**
 - **Python**
