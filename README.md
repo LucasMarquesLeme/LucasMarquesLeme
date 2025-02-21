@@ -9,11 +9,6 @@ Sou estudante de Ciência e Tecnologia e Ciência da Computação na UFABC, com 
 - **SQL**
 - **Python**
 
-## Projetos
-No meu GitHub, você pode encontrar projetos focados em análise de dados, como:
-- **Análise de Crédito e Risco**
-- **Transformação e Visualização de Dados**
-
 ## Contato
 - [LinkedIn](https://www.linkedin.com/in/lucas-marques-leme)
 - Email: lucasml2990@gmail.com
